@@ -1,11 +1,11 @@
 # yahyaErdoğan
-[![GitHub followers](https://img.shields.io/github/followers/kubraterzi?style=social)](https://github.com/yahyaerdoan?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/kubraterzi?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=kubraterzi.visitor-badge)](https://GitHub.com/yahyaerdoan/StrapDown.js/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/yahyaerdoan?style=social)](https://github.com/yahyaerdoan?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/yahyaerdoan?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=yahyaerdoan.visitor-badge)](https://GitHub.com/yahyaerdoan/StrapDown.js/stargazers/)
 
 
 # Hi 👋
-I'm Kübra! I am improving myself on projects related to web.
+I'm Yahya Erdoğan! I am improving myself on projects related to web.
 
 Contact with me via these platforms! 
 
