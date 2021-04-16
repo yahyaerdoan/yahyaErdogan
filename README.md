@@ -1,6 +1,6 @@
 # yahyaErdoğan
 [![GitHub followers](https://img.shields.io/github/followers/yahyaerdoan?style=social)](https://github.com/yahyaerdoan?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/yahyaerdoan?style=social)
+![GitHub stars](https://github.com/yahyaerdoan?tab=stars)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=yahyaerdoan.visitor-badge)](https://GitHub.com/yahyaerdoan/StrapDown.js/stargazers/)
 
 
