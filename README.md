@@ -4,7 +4,7 @@
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=yahyaerdoan.visitor-badge)](https://GitHub.com/yahyaerdoan/StrapDown.js/stargazers/)
 
 
-# Hi 👋
+# Hello I'm Yahya 👋
 I'm Yahya Erdoğan! I am improving myself on projects related to web.
 
 Contact with me via these platforms! 
