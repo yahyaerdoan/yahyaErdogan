@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... I graduated from İstanbul University in 2016
 - 🌱 I’m currently learning ... C#, Java, Angular
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/yahya-erdo%C4%9Fan-03b32720a/)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/yahyaerdo%C4%9Fan/)
