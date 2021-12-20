@@ -15,9 +15,10 @@ In my project work, I can develop in accordance with OOP and SOLID rules with N-
 Contact with me via these platforms! 
 
   <a href="https://www.linkedin.com/in/yahyaerdo%C4%9Fan/" target="_blank" rel="nofollow"><img alt="Yahya's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
   <a href="mailto:yahyaerdoan@gmail.com" target="_blank" rel="nofollow"><img alt="Yahya's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+
   
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
