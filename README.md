@@ -1,4 +1,4 @@
-# yahyaErdoğan
+# [Yahya Erdoğan](https://www.linkedin.com/in/yahyaerdo%C4%9Fan/)
 [![GitHub followers](https://img.shields.io/github/followers/yahyaerdoan?style=social)](https://github.com/yahyaerdoan?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/yahyaerdoan?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=yahyaerdoan.visitor-badge)](https://GitHub.com/yahyaerdoan/StrapDown.js/stargazers/)
@@ -11,6 +11,7 @@ I took C# Asp.Net 3.1 EntityFramework – Angular and Java – React programming
 
 I developed a car rental website with C# Asp.Net EntityFramework – Angular, and a human resources website with Java – React programming language. I am creating a Blog project with Asp.Net Core 5.0 and Mvc structure.
 In my project work, I can develop in accordance with OOP and SOLID rules with N-Tier Architecture structure.
+
 
 Contact with me via these platforms! 
 
@@ -47,11 +48,3 @@ Contact with me via these platforms!
   </p>
 
 </p>
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... I graduated from İstanbul University in 2016
-- 🌱 I’m currently learning ... C#, Java, Angular
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/yahyaerdo%C4%9Fan/)
