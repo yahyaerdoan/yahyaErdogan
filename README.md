@@ -2,13 +2,13 @@
 
 
 # Hello, I'm Yahya 👋
-• Over 4 years of experience in Software Architecture, Design, and Development using Microsoft .NET, Java, and Front End Technologies (Angular, TypeScript, JavaScript, Bootstrap). 
-• Experienced in analyzing, designing, developing, testing, and deploying Enterprise applications using technologies such as C# .Net Framework, .Net Core, MsSql DB, Oracle DB, JavaScript, MVC, LINQ, Web APIs. 
-• Hands-on experience in developing and implementing high-end applications with Microsoft .Net Framework, .Net Core and MVC architecture. 
-• Solid knowledge and experience with Web Forms, LINQ, CSS, JavaScript and consuming and manipulating data. 
-• Expertise in Design and Development of User Interfaces, User Controls, and Custom Controls using ASP.NET and C#. 
-• Extensive knowledge of object-oriented programming concepts like Abstraction, Polymorphism, Inheritance, and Encapsulation. 
-• Experience designing websites with W3C standards using HTML, CSS, JavaScript, TypeScript to get the best responsive cross-browser user experience for long-term user retention and engagement.
+##### • Over 4 years of experience in Software Architecture, Design, and Development using Microsoft .NET, Java, and Front End Technologies (Angular, TypeScript, JavaScript, Bootstrap). 
+##### • Experienced in analyzing, designing, developing, testing, and deploying Enterprise applications using technologies such as C# .Net Framework, .Net Core, MsSql DB, Oracle DB, JavaScript, MVC, LINQ, Web APIs. 
+##### • Hands-on experience in developing and implementing high-end applications with Microsoft .Net Framework, .Net Core and MVC architecture. 
+##### • Solid knowledge and experience with Web Forms, LINQ, CSS, JavaScript and consuming and manipulating data. 
+##### • Expertise in Design and Development of User Interfaces, User Controls, and Custom Controls using ASP.NET and C#. 
+##### • Extensive knowledge of object-oriented programming concepts like Abstraction, Polymorphism, Inheritance, and Encapsulation. 
+##### • Experience designing websites with W3C standards using HTML, CSS, JavaScript, TypeScript to get the best responsive cross-browser user experience for long-term user retention and engagement.
 
 
 Contact with me via these platforms! 
