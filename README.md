@@ -1,16 +1,14 @@
 # [Yahya Erdoğan](https://www.linkedin.com/in/yahyaerdo%C4%9Fan/)
-[![GitHub followers](https://img.shields.io/github/followers/yahyaerdoan?style=social)](https://github.com/yahyaerdoan?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/yahyaerdoan?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=yahyaerdoan.visitor-badge)](https://GitHub.com/yahyaerdoan/StrapDown.js/stargazers/)
 
 
 # Hello, I'm Yahya 👋
-My personality, which I can describe as a curious, critical and researcher, is the qualities that contribute to my continuous development in these areas and to find different solutions.
-
-I took C# Asp.Net 3.1 EntityFramework – Angular and Java – React programming trainings. By increasing my competence and learning different methods and methods, I tried to improve my personal development and level of expertise in this field. I used Boostrap and Semantic UI from Html-Css libraries. In addition, I continue my learning process by continuing my work in this field with Asp.Net Core Mvc. I worked with MSSQL and PostgreSQL Server in my projects. I got a roadmap about the basic working logic of Html and Css and how I should follow a method if needed.
-
-I developed a car rental website with C# Asp.Net EntityFramework – Angular, and a human resources website with Java – React programming language. I am creating a Blog project with Asp.Net Core 5.0 and Mvc structure.
-In my project work, I can develop in accordance with OOP and SOLID rules with N-Tier Architecture structure.
+• Over 4 years of experience in Software Architecture, Design, and Development using Microsoft .NET, Java, and Front End Technologies (Angular, TypeScript, JavaScript, Bootstrap). 
+• Experienced in analyzing, designing, developing, testing, and deploying Enterprise applications using technologies such as C# .Net Framework, .Net Core, MsSql DB, Oracle DB, JavaScript, MVC, LINQ, Web APIs. 
+• Hands-on experience in developing and implementing high-end applications with Microsoft .Net Framework, .Net Core and MVC architecture. 
+• Solid knowledge and experience with Web Forms, LINQ, CSS, JavaScript and consuming and manipulating data. 
+• Expertise in Design and Development of User Interfaces, User Controls, and Custom Controls using ASP.NET and C#. 
+• Extensive knowledge of object-oriented programming concepts like Abstraction, Polymorphism, Inheritance, and Encapsulation. 
+• Experience designing websites with W3C standards using HTML, CSS, JavaScript, TypeScript to get the best responsive cross-browser user experience for long-term user retention and engagement.
 
 
 Contact with me via these platforms! 
