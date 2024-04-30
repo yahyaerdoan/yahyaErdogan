@@ -11,7 +11,6 @@
 ##### • Experience designing websites with W3C standards using HTML, CSS, JavaScript, TypeScript to get the best responsive cross-browser user experience for long-term user retention and engagement.
 
 
-Contact with me via these platforms! 
 
   <a href="https://www.linkedin.com/in/yahyaerdo%C4%9Fan/" target="_blank" rel="nofollow"><img alt="Yahya's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
