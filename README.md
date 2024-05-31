@@ -1,4 +1,4 @@
-# [Yahya Erdogan](www.linkedin.com/in/yahyaerdoan)
+# [Yahya Erdogan](www.linkedin.com/in/yahyaerdoan/)
 
 
 # Hello, I'm Yahya 👋
